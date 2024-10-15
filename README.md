@@ -1,0 +1,2 @@
+# Bracket_Master
+ Esta app facilita la gestión de baneos de escenarios en torneos de Super Smash Bros Ultimate. Los jugadores pueden seleccionar y eliminar escenarios de acuerdo con las reglas del torneo, agilizando el proceso de elección después de cada partida. Diseñada para organizadores y jugadores competitivos, permite un flujo sencillo y visualmente atractivo para administrar los baneos de escenarios de forma eficiente.
